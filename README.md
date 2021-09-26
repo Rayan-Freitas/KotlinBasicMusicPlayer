@@ -1,7 +1,7 @@
 # KotlinBasicMusicPlayer
 Player de Música básico feito em Kotlin
 
-![ezgif-6-3303bed7b010](https://user-images.githubusercontent.com/72174813/134826898-b0cbc820-b2bf-4652-a805-59fb4d44e0ce.gif)
+![ezgif-6-ca9f0e6be15a](https://user-images.githubusercontent.com/72174813/134826961-95051ff9-1aa6-46b4-a7e7-563be4510e70.gif)
 
 
 Pequenas mudanças feitas, código não é de minha autoria
